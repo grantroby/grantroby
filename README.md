@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @grantroby
+- 👀 I’m interested in data engineering, modeling, and analytics.
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on big data projects
+- 📫 How to reach me granteroby@gmail.com
+- ⚡ Fun fact: ...
